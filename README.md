@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SenSheep
+- 👀 I’m interested in VideoGame, fantasy books and any IT-brancgh
+- 🌱 I’m currently learning Python yes yeah yep ineed
+- 💞️ Now i’m not looking to collaborate on anyone
+- 📫 How to reach me: write me. sorry its very difficalt, but i have real scrict rules for people
