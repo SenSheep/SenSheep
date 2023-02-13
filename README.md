@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SenSheep
-- 👀 I’m interested in VideoGame, fantasy books and any IT-brancgh
-- 🌱 I’m currently learning Python yes yeah yep ineed
+- 👀 I’m interested of VideoGames, Sci-fi Books, especially Cyberpunk, and IT develop
+- 🌱 I’m currently learning FullStack Web Developer specializaion
+- I know Python, HTML, CSS, JavaScript
 - 💞️ Now i’m not looking to collaborate on anyone
-- 📫 How to reach me: write me. sorry its very difficalt, but i have real scrict rules for people
+- 📫 How to reach me: write me on email arsenb4b@gmail.com
