@@ -1,3 +1,4 @@
 - Hi, I’m @SenSheep
 - I’m student ML-engineer profile
 - Check my LeetCode account: https://leetcode.com/u/sensheep/
+- Language IRL: ENG/RUS
